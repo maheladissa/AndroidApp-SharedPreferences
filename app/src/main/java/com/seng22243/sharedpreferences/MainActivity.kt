@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
             val name = sharedPreferences.getString("Name","")
             val robot = sharedPreferences.getBoolean("IsaRobot",true)
 
-            infoView.text = "Name: $name \n Is a Robot: $robot"
+            infoView.text = "Name: $name \n \n Is a Robot: $robot"
 
         }
     }
