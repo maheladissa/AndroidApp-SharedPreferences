@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AndroidApp-SharedPreferences</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="full_name">Full Name</string>
+    <string name="submit">Submit</string>
+    <string name="view">View</string>
 </resources>
