@@ -28,6 +28,15 @@
         android:hint="@string/full_name"
         android:autofillHints="" />
 
+    <CheckBox
+        android:id="@+id/notRobot"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_margin="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="I'm not a Robot" />
+
     <Button
         android:id="@+id/submitButton"
         android:layout_gravity="center"
